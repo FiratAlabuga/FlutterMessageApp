@@ -1,0 +1,12 @@
+{
+    "home":{
+        "titLaViva":"LaViva",
+        "activity":"Hikayeler",
+        "messages":"Mesajlar"
+    },
+    "messageCollabration":{
+        "online":"Online",
+        "typeaMessage":"Mesajınız...",
+        "date":"Bugün-23 Nis"
+    }
+}

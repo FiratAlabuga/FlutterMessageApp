@@ -1,0 +1,12 @@
+{
+    "home":{
+        "titLaViva":"LaViva",
+        "activity":"Activity",
+        "messages":"Messages"
+    },
+    "messageCollabration":{
+        "online":"Online",
+        "typeaMessage":"Type a message",
+        "date":"Today-23 Apr"
+    }
+}
