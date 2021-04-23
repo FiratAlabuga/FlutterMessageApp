@@ -1,3 +1,8 @@
-| Mesajlar Ana Sayfa                                                                                                                      	| Peer to Peer                                                                                              
+|Mesajlar Ana Sayfası                                                                                         	| Mesaj içeriği                                                                                                                      |                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://user-images.githubusercontent.com/61869832/115929518-9f500700-a490-11eb-8add-c4eeefbe4276.png" style="zoom:25%;" /> | <img src="https://user-images.githubusercontent.com/61869832/115929521-a0813400-a490-11eb-978d-b15278aafe9b.png" style="zoom:25%;" /> | 
+| <img src="https://user-images.githubusercontent.com/61869832/115929518-9f500700-a490-11eb-8add-c4eeefbe4276.png" style="zoom:25%;" /> | <img src="https://user-images.githubusercontent.com/61869832/115929521-a0813400-a490-11eb-978d-b15278aafe9b.png" style="zoom:25%;" /> | <img src="" style="zoom:25%;" /> |
+
+
+
+
+
